@@ -16,7 +16,7 @@
     "@angular/compiler": "^20.2.0-next",
     "@angular/core": "^20.2.0-next",
     "@angular/forms": "^20.2.0-next",
-    "@angular/material": "^20.2.0-next",
+    "@angular/material": "^20.2.7",
     "@angular/platform-browser": "^20.2.0-next",
     "jasmine-spec-reporter": "^7.0.0",
     "rxjs": "~7.8.0",
