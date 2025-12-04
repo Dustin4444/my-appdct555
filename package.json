@@ -12,8 +12,8 @@
   "dependencies": {
     "@angular/animations": "^20.2.0-next",
     "@angular/cdk": "^20.2.0-next",
-    "@angular/common": "^20.2.0-next",
-    "@angular/compiler": "^20.2.0-next",
+    "@angular/common": "^20.3.14",
+    "@angular/compiler": "^20.3.15",
     "@angular/core": "^20.2.0-next",
     "@angular/forms": "^20.2.0-next",
     "@angular/material": "^20.2.0-next",
@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^20.2.0-next",
-    "@angular/cli": "^20.2.0-next",
+    "@angular/cli": "^20.3.13",
     "@angular/compiler-cli": "^20.2.0-next",
     "@types/jasmine": "~5.1.0",
     "jasmine-core": "~5.1.0",
